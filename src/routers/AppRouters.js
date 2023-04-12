@@ -5,6 +5,7 @@ import BlogListPage from '../components/BlogListPage'
 import BlogDetailsPage from '../components/BlogDetails'
 import ContactPage from '../components/Contactpage'
 import NotFoundPage from '../components/NotFoundPage'
+
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 const AppRouters = () => {
   return (
