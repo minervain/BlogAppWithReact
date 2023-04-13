@@ -2,7 +2,11 @@ import React from 'react'
 
 const NotFoundPage = () => {
   return (
-    <div>NotFoundPage</div>
+    <div>
+      <h1>
+        BROM YANLIŞ URL GİRDİN DİGGAT ET BEBEYİM
+      </h1>
+    </div>
   )
 }
 

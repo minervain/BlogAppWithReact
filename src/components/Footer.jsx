@@ -13,9 +13,9 @@ const Footer = () => {
           </Col>
           <Col md={6}>
             <div className="d-flex justify-content-end mt-2">
-              <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="mr-3"><FaGithub /></a>
-              <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" className="mr-3"><FaLinkedin /></a>
-              <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" className='mr-3'><FaTwitter /></a>
+              <a href="https://github.com/minervain" target="_blank" rel="noopener noreferrer" className="mr-3"><FaGithub /></a>
+              <a href="https://www.linkedin.com/minervain" target="_blank" rel="noopener noreferrer" className="mr-3"><FaLinkedin /></a>
+              <a href="https://twitter.com/minervain0" target="_blank" rel="noopener noreferrer" className='mr-3'><FaTwitter /></a>
             </div>
           </Col>
         </Row>

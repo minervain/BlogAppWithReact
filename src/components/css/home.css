@@ -1,0 +1,24 @@
+.asd{ display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+}
+  .yasalar {
+    padding: 1em;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+    color: red;
+  }
+  p {
+    font-size: 1.1em;
+    line-height: 1.5;
+  }

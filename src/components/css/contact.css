@@ -1,0 +1,30 @@
+*{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+ul {
+    list-style-type:none;
+}
+
+
+.aaa{
+
+    font-size: 50px;
+}
+
+.rr{
+    font-size: 50px;
+    margin-top: 180px;
+}
+
+.cc{
+    color: rgb(255, 255, 255);
+}
+
+.tt{
+    margin-top: 200px;
+}
