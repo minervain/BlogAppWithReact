@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.img-fluid{
+    height: 700px;
+    border-radius: 6rem;
+}
+#paragraf{
+
+    font-size: 23px;
+}

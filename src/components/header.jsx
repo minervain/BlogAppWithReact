@@ -1,7 +1,7 @@
 import React from "react";
-import { NavLink,RRNavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "./header.css"
+import "./css/header.css"
 import { Nav } from 'reactstrap'
 
 const header = () => {
@@ -12,7 +12,7 @@ const header = () => {
     <header>
     <Nav className="justify-content-center" >
       <div className="x">
-        <NavLink to="/" className="y" > Anasayfa</NavLink>
+        <NavLink to="/" className="y" style={{color:"white"}} > Anasayfa</NavLink>
       </div >
       <div className="x">
         <NavLink to="/blogs" className="y" >Hakkımda</NavLink>
