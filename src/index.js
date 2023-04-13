@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import AppRouters from './routers/AppRouters';
 import "./App.css"
-import Button from 'react-bootstrap/Button';
-import { legacy_createStore } from 'redux';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

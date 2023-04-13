@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <body className='asd'>
        <audio autoPlay>
-        <source src=".\assets\yusuf-miroglu-yasalari" type="audio/mpeg"/>
+        <source src=".\assets\yusuf-miroglu-yasalari.mp3" type="audio/mpeg"/>
       </audio>
    
     <div className="yasalar">
